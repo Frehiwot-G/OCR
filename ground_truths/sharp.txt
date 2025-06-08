@@ -1,0 +1,6 @@
+Sharpening: Unsharp Masking
+36
+Subtract blurred version to boost high frequencies.
+Method g(x,y) = f(x,y) + k[f(x,y) - fblur(x,y)]
+   fblur: Gaussian blur and k: sharpening factor
+Advantage: Controls sharpening intensity; widely used in photography.

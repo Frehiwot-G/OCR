@@ -1,0 +1,246 @@
+image_name,ocr_text,ground_truth,accuracy,word_accuracy,cer
+Conclusion.png,"Conclusion
+
+Every system is built from a domain-specific language designed by the
+programmers to describe that system. Functions are the verbs of that
+language, and classes are the nouns. This is not some throwback to the
+hideous old notion that the nouns and verbs in a requirements document
+are the first guess of the classes and functions of a system. Rather, this is
+a much older truth. The art of programming is, and has always been, the
+art of language design.
+
+Master programmers think of systems as stories to be told rather than
+programs to be written. They use the facilities of their chosen
+programming language to construct a much richer and more expressive
+language that can be used to tell that story. Part of that domain-specific
+language is the hierarchy of functions that describe all the actions that
+take place within that system. In an artful act of recursion those actions
+are written to use the very domain-specific language they define to tell
+their own small part of the story.
+
+This chapter has been about the mechanics of writing functions well. If
+you follow the rules herein, your functions will be short, well named,
+and nicely organized. But never forget that your real goal is to tell the
+story of the system, and that the functions you write need to fit cleanly
+together into a clear and precise language to help you with that telling.","Conclusion
+Every system is built from a domain-specific language designed by the
+programmers to describe that system. Functions are the verbs of that
+language, and classes are the nouns. This is not some throwback to the
+hideous old notion that the nouns and verbs in a requirements document
+are the first guess of the classes and functions of a system. Rather, this is
+a much older truth. The art of programming is, and has always been, the
+art of language design.
+Master programmers think of systems as stories to be told rather than
+programs to be written. They use the facilities of their chosen
+programming language to construct a much richer and more expressive
+language that can be used to tell that story. Part of that domain-specific
+language is the hierarchy of functions that describe all the actions that
+take place within that system. In an artful act of recursion those actions
+are written to use the very domain-specific language they define to tell
+their own small part of the story.
+This chapter has been about the mechanics of writing functions well. If
+you follow the rules herein, your functions will be short, well named,
+and nicely organized. But never forget that your real goal is to tell the
+story of the system, and that the functions you write need to fit cleanly
+together into a clear and precise language to help you with that telling.",99.89,100.0,0.0
+certificate-2.jpg,"| NEW Fi
+: NETWORK OF ETHIOPIA’S WOMEN IN tg
+{§ CERTIFICATE OF COMPLETION
+This Is to Certify That
+PREFIWOT GEMECHU WEYUMA
+has Successfully Completed Face-to-Face Learning ~
+Courses on Leadership and the Fundamentals of Banking,
+Facilitated by NEWFin, Under the Young Women Professional
+Development Program.
+— . °
+W/ro Melika Bedria
+Chair Woman, NEWFin .","NEWFin
+NETWORK OF ETHIOPIA'S WOMEN IN FINANCE
+
+CERTIFICATE OF COMPLETION
+
+This is to Certify That
+FREHIWOT GEMECHU WEYUMA
+has Successfully Completed Face-to-Face Learning Course on Leadership and the Fundamentals of Banking, Facilitated by NEWFin, Under the Young Women Professional Development Program.
+
+March 08,2025
+                           
+W/ro Melika Bedria
+Chair Woman, NEWFin",83.74,0.0,43.34
+certificate.jpg,"NEW EI
+NETWORK OF ETHIOPIA’S WOMEN IN Ng)
+CERTIFICATE OF COMPLETION
+This Is to Certify That
+FREHIWOT GEMECHU WEYUMA
+has Successfully Completed Face-to-Face Learning ~
+Courses on Leadership and the Fundamentals of Banking,
+Facilitated by NEWFin, Under the Young Women Professional LEE
+Development Program. kf @ Q
+March 08,2025
+— . Nee Ano wie
+W/ro Melika Bedria
+Chalr Woman, NEWFin
+Oo 0","NEWFin
+NETWORK OF ETHIOPIA'S WOMEN IN FINANCE
+
+CERTIFICATE OF COMPLETION
+
+This is to Certify That
+FREHIWOT GEMECHU WEYUMA
+has Successfully Completed Face-to-Face Learning Course on Leadership and the Fundamentals of Banking, Facilitated by NEWFin, Under the Young Women Professional Development Program.
+
+March 08,2025   LPI                         
+LEARNING PROGRAMMES OF EXCELLENCE 
+2025
+                           
+W/ro Melika Bedria
+Chair Woman, NEWFin",73.25,0.0,32.07
+cleancode.png,"Clean Code
+A Handbook of Agile Software Craftsmanship
+The Object Mentors:
+Robert C. Martin
+Michael C. Feathers Timothy R. Ottinger
+Jeffrey J. Langr Brett L. Schuchert
+James W. Grenning Kevin Dean Wampler
+Object Mentor Inc.
+Writing clean code is what you must do in order to
+call yourself a professional. There is no reasonable
+excuse for doing anything less than your best.","Clean Code
+A Handbook of Agile Software Craftsmanship
+The Object Mentors:
+Robert C.Martin
+Michale C.Feathers Timothy R.Ottinger
+Jeffrey J.Langr Brett L.Schuchert
+James W.Grenning Kevin Dean Wampler
+Object Mentor Inc.
+
+Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best.",97.17,21.43,25.34
+image.png,"IMAGE ENHANCEMENT AND RESTORATION
+TECHNIQUES IN COMPUTER VISION",IMAGE ENHANCEMENT AND RESTORATION TECHNIQUES IN COMPUTER VISION,98.41,100.0,0.0
+newfin.jpg,"NETWORK OF ETHIOPIA’S WOMEN IN FINANCE
+LEADERSHIP PROGRAM FOR =|
+YOUNG PROFESSIONAL WORKING ;”
+IN THE FINANCIAL SECTOR F
+December 23 - 27, 2624 {:
+Addis Abeba, Ethicpia |
+j","NEWFin
+NETWORK OF ETHIOPIAN WOMEN IN FINANCE
+LEADERSHIP PROGRAM FOR YOUNG PROFESSIONAL WORKING IN THE FINANCIAL SECTOR
+
+December 23-27,2024
+Addis Abeba, Ethiopia",90.09,18.18,13.12
+page-1.jpg,"° ° °
+Everything in life
+Has Potential
+All men are sent to the world with limitless
+credit, but seldom draw to their full extent.
+
+It is a tragedy to know that with over five billion people
+on this planet today, only a minute percentage will ex-
+perience a significant fraction of their true potential. Per-
+haps you are a candidate for contributing to the wealth of
+the cemetery. Your potential was not given for you to
+deposit in the grave. You must understand the tremendous
+potential you possess and commit yourself to maximizing it
+in your short lifetime. What is potential, anyway?","1 Everything in Life Has Potential
+
+All men are sent to the world with limitless credit, but seldom draw to their full extent.
+It is a tragedy to know that with over five billion people on this planet today, only a minute percentage will experience a significant fraction of their true potential. Perhaps you are a candidate for contributing to the wealth of the cemetery. Your potential was not given for you to deposit in the grave. You must understand the tremendous potential you possess and commit yourself to maximizing it in your short lifetime. What is potential, anyway?",94.85,7.07,1.04
+page-2.jpg,". “
+94 Understanding Your Potential
+PRINCIPLES
+
+oo
+
+1. Believe there is potential in you to necomplich
+something worthwhile.
+
+2. Unless you use your potential, you will never
+realize how much ability is inside you.
+
+§. Jump by your own challenge. Don’t wait for
+someone to challenge you.
+
+4. Don’t let the odds that are agaimst you stop
+you from fulfilling your potential.
+
+5. Shortcuts negate your ability.
+
+6. Don’t be so afraid of failure that you refice
+to try. .
+Ce -","94 Understanding Your Potential
+PRINCIPLES
+
+1. Believe there is potential in you to accomplish something worthwhile.
+
+2. Unless you use your potential, you will never realize how much ability is inside you.
+
+3. Jump by your own challenge. Don’t wait for someone to challenge you.
+
+4. Don’t let the odds that are against you stop you from fulfilling your potential.
+
+5. Shortcuts negate your ability.
+
+6. Don’t be so afraid of failure that you refuse to try.",90.2,1.3,7.59
+sharp.png,"Sharpening: Unsharp Masking
+|
+O Subtract blurred version to boost high frequencies.
+O Method: g(x,y) = fy) + kIFGY) — four)
+O f,\,,: Gaussian blur and k: sharpening factor
+Oo Advantage: Controls sharpening intensity; widely
+used in photography.","Sharpening: Unsharp Masking
+36
+Subtract blurred version to boost high frequencies.
+Method g(x,y) = f(x,y) + k[f(x,y) - fblur(x,y)]
+   fblur: Gaussian blur and k: sharpening factor
+Advantage: Controls sharpening intensity; widely used in photography.",85.19,31.25,15.0
+shortcontract.png,"Lemplatenet 22255507707
+inquire@wingroup:maill|iseattleawAtasi0]]
+Short Form Contract
+
+This Contract is made on December 23, 2055 by and between [YOUR COMPANY NAME]
+
+(hereinafter referred to as ""Provider"") and Sigmund Corwin (hereinafter referred to as
+
+""Client"").
+
+1. SERVICES: Provider agrees to perform the following services: Graphic Design for
+Marketing Materials, starting on January 1, 2056, and concluding on February 15,
+2056.
+
+2. PAYMENT TERMS: Client agrees to pay $2,500, with payment due on February 1,
+2056. Late payments may incur a fee of $50 per day after the due date.
+
+3. TERMS AND CONDITIONS:
+
+* Changes to this Contract must be made in writing and signed by both parties.
+¢ Both parties agree to resolve disputes in Seattle, Washington.
+¢ This Contract is governed by the laws of Seattle, Washington.
+4. SIGNATURES: This Contract is binding upon signature by both parties.
+[YOUR NAME], [YOUR COMPANY NAME]:
+Date: December 23, 2055
+Sigmund Corwin:
+Date: December 23, 2055
+Contract Templates @ Template.net","Short Form Contract
+
+This Contract is made on December 23, 2055 by and between [YOUR COMPANY NAME] (hereinafter referred to as ""Provider"") and Sigmund Corwin (hereinafter referred to as ""Client"").
+
+SERVICES: Provider agrees to perform the following services: Graphic Design for Marketing Materials, starting on January 1, 2056, and concluding on February 15, 2056.
+
+PAYMENT TERMS: Client agrees to pay $2,500, with payment due on February 1, 2056. Late payments may incur a fee of $50 per day after the due date.
+
+TERMS AND CONDITIONS:
+
+Changes to this Contract must be made in writing and signed by both parties.
+
+Both parties agree to resolve disputes in Seattle, Washington.
+
+This Contract is governed by the laws of Seattle, Washington.
+
+SIGNATURES: This Contract is binding upon signature by both parties.
+
+[YOUR NAME], [YOUR COMPANY NAME]: _____________________
+Date: December 23, 2055
+
+Sigmund Corwin: _____________________
+Date: December 23, 2055",90.96,0.0,16.03
