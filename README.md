@@ -6,14 +6,16 @@ This project performs Optical Character Recognition (OCR) using **Tesseract OCR*
 
 ## 📁 Project Structure
 
+```
 ├── images/ # Folder containing input images
 ├── ground_truths/ # Folder for Ground truth for each image
+├── output-plots/ # Folder for generated output plots
 ├── requirements.txt # Python package dependencies
 ├── OCR.py # Main script to run OCR + evaluation
 ├── ocr_results.csv # Output: CSV with text, ground truth, accuracy
 ├── ocr_report.pdf # Output: PDF visual summary
 ├── README.md # This file
-
+```
 
 ---
 
@@ -26,16 +28,24 @@ This project performs Optical Character Recognition (OCR) using **Tesseract OCR*
   ```python
   pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-**Linux/macOS:**
-sudo apt install tesseract-ocr       # Debian/Ubuntu
-brew install tesseract               # macOS
+### 2. 🐧 Linux/macOS Installation
 
+#### For Debian/Ubuntu:
+```bash
+sudo apt install tesseract-ocr
+```
+
+#### For macOS (using Homebrew):
+```bash
+brew install tesseract
+```
 
 ## 📦 Install Python Dependencies
 
+```python
 pip install -r requirements.txt
-
+```
 
 ## Run the OCR script
-
+```python
 python OCR.py
