@@ -28,19 +28,18 @@ This project performs Optical Character Recognition (OCR) using **Tesseract OCR*
   ```python
   pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-### 2. 🐧 Linux/macOS Installation
+ - 🐧 Linux/macOS Installation
 
-#### For Debian/Ubuntu:
-```bash
-sudo apt install tesseract-ocr
-```
+      #### For Debian/Ubuntu:
+      ```bash
+      sudo apt install tesseract-ocr
+      ```
+      
+      #### For macOS (using Homebrew):
+      ```bash
+      brew install tesseract
 
-#### For macOS (using Homebrew):
-```bash
-brew install tesseract
-```
-
-## 📦 Install Python Dependencies
+### 2. 📦 Install Python Dependencies
 
 ```python
 pip install -r requirements.txt
