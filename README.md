@@ -1,13 +1,11 @@
 # 🧠 Optical Character Recognition (OCR) with Tesseract
 
-This project performs Optical Character Recognition (OCR) using **Tesseract OCR** along with **OpenCV** preprocessing techniques. It extracts text from printed images, compares it to ground truth, calculates accuracy metrics, and exports results as CSV and PDF.
+This project performs Optical Character Recognition (OCR) using **Tesseract OCR** along with **OpenCV** preprocessing techniques. It extracts text from images, compares it to ground truth, calculates accuracy metrics, and exports results as CSV and PDF.
 
 ---
 
 ## 📁 Project Structure
 
-
-│
 ├── images/ # Folder containing input images
 ├── ground_truths/ # Folder for Ground truth for each image
 ├── requirements.txt # Python package dependencies
